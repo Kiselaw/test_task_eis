@@ -1,2 +1,2 @@
 # test_task_eis
-Test task 
+Тестовое задание на вакансию Разработчик Python. 
